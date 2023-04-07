@@ -6,9 +6,9 @@ import Ex2 from "./components/Practice/Ex2";
 const App = () => {
   return (
     <>
-      {/*<Wheather />*/}
+      <Wheather />
       {/*<Ex1 />*/}
-      <Ex2 />
+      {/*<Ex2 />*/}
     </>
   );
 };
